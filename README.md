@@ -29,8 +29,3 @@ Menu options:
 3. Validate Blockchain
 4. Exit
 
-## Future Improvements
-- Voter authentication (password/OTP)
-- Persistent storage (database instead of in-memory)
-- Web-based UI
-- Proof-of-work / distributed nodes for real decentralization
